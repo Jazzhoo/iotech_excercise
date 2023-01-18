@@ -2,6 +2,7 @@
 The repository created to upload exercise result.
 First Go code learnt and written.
 
+Tested in Linux Mint 21.1 with kernel 5.15
 
 ## Pre-requisite:
   1. Go 1.19
