@@ -1,4 +1,4 @@
-# iotech_excercise
+# iotech_exercise
 The repository created to upload exercise result.
 First Go code learnt and written.
 
